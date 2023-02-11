@@ -41,3 +41,12 @@
  cd .. = move to mother directory (back)
  cd ../../ = move back multible directorys
  
+##Commit
+ get status
+ ```
+ git status
+ ```
+ add all
+ ```
+ git add . 
+ ```
