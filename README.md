@@ -1,7 +1,9 @@
 # Git-Commands
  
 ## Install/Updates:
- `sudo apt install git` install Git on your machine 
+
+ ```Install Git on your machine 
+ sudo apt install git```
  
  git --version #check for current git version 
  
