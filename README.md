@@ -2,11 +2,11 @@
  
 ## Install/Updates:
 
- Install Git on your machine 
+ Install Git on your machine: 
  ```
  sudo apt install git
  ```
- Check for current Git version
+ Check for current Git version:
  ```
  git --version
  ```
@@ -18,10 +18,16 @@
  > 
  > **LOCAL _= The current reposetory_**
  
- git config --global user.name "Manangi Bo" #Add User Name
- git config --global user.email manangi@gmail.com #Add E-mail to Reposetory
+ Add User Name to Reposetory:
+ ```
+ git config --global user.name "Manangi Bo" 
+ ```
+ Add E-mail to Reposetory:
+ ```
+ git config --global user.email manangi@gmail.com
+ ```
  
- CHANGE TEXT EDITOR
+ **CHANGE TEXT EDITOR**
  git config -h/--help
  git config --global core.editor "code --wait"
  git config --global -e = open global settings in default edditor
