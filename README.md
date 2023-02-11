@@ -35,7 +35,7 @@
  ```
  HOW TO HANDEL END "OF LINES"
  ```
- git config --global core.autocrlf (on Linux or Mac set to "input",on Windows set to "true")
+ git config --global core.autocrlf true
  ```
  (on Linux or Mac set to "input",on Windows set to "true")
  
