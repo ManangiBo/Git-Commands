@@ -28,11 +28,12 @@
  ```
  
  **CHANGE TEXT EDITOR**
+ 
  git config -h/--help
  git config --global core.editor "code --wait"
  git config --global -e = open global settings in default edditor
  
- HOW TO HANDEL END OF LINES
+ HOW TO HANDEL END "OF LINES"
  git config --global core.autocrlf (on Linux or Mac set to "input",on Windows set to "true")
  
  
