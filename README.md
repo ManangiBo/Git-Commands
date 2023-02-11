@@ -6,15 +6,19 @@
  ```
  sudo apt install git
  ```
- check for current git version
+ Check for current Git version
  ```
  git --version
  ```
  
 ## Settings:
- SYSTEM All users
- GLOBAL #All repositories of the current user
- LOCAL #The current reposetory
+ SYSTEM = All users
+ 
+
+ GLOBAL = All repositories of the current user
+ 
+ 
+ LOCAL = The current reposetory
  
  git config --global user.name "Manangi Bo" #Add User Name
  git config --global user.email manangi@gmail.com #Add E-mail to Reposetory
