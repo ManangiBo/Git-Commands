@@ -13,7 +13,9 @@
  
 ## Settings:
  > SYSTEM = All users
+ > 
  > GLOBAL = All repositories of the current user
+ > 
  > LOCAL = The current reposetory
  
  git config --global user.name "Manangi Bo" #Add User Name
