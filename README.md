@@ -67,3 +67,12 @@
  ```
  git add *.md
  ```
+ Remove File
+ ```
+ git rm --cached <file name>
+ ```
+ Commit changes to reposetory
+ ```
+ git commit
+ ```
+ `git commit` opens up the vim edditor to enter a comment, wenn you start typing it is not    going to do anything, type `i` to go into insert mode, now type your comment. Now to Exit press`Esc` to get out of insert mode and type in `:wq`
