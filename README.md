@@ -3,7 +3,7 @@
 ## Install/Updates:
 
  ```Install Git on your machine 
- sudo apt install git```
+ sudo apt install git
  
  git --version #check for current git version 
  
