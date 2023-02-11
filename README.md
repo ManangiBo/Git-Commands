@@ -13,12 +13,8 @@
  
 ## Settings:
  > SYSTEM = All users
- 
-
- GLOBAL = All repositories of the current user
- 
- 
- LOCAL = The current reposetory
+ > GLOBAL = All repositories of the current user
+ > LOCAL = The current reposetory
  
  git config --global user.name "Manangi Bo" #Add User Name
  git config --global user.email manangi@gmail.com #Add E-mail to Reposetory
