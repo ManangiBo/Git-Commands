@@ -6,7 +6,10 @@
  ```
  sudo apt install git
  ```
- git --version #check for current git version 
+ check for current git version
+ ```
+ git --version
+ ```
  
 ## Settings:
  SYSTEM All users
