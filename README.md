@@ -75,4 +75,7 @@
  ```
  git commit
  ```
- `git commit` opens up the vim edditor to enter a comment, wenn you start typing it is not    going to do anything, type `i` to go into insert mode, now type your comment. Now to Exit press`Esc` to get out of insert mode and type in `:wq`
+ When you use the command `git commit`, it opens the Vim text editor. At first, it may seem like you can't type anything, that's because you need to switch to "insert mode". To do this, simply type `i` on your keyboard. Now you can start writing your comment.
+
+When you're done, press the `Esc` key to exit insert mode. Finally, type `:wq` and hit enter to save your changes and close the Vim editor. This will complete the `git commit` process and add your comment to the commit.
+
