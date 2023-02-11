@@ -67,7 +67,7 @@
  ```
  git add *.md
  ```
- <Note: .md is just an example you need to chose the formate of your actual file .html .js .py etc.
+ >Note: .md is just an example you need to chose the formate of your actual file (.html, .js , .py, etc.)
  Remove File from commit stage
  ```
  git rm --cached <file name>
