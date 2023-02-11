@@ -39,10 +39,16 @@
  > 
  > **LOCAL _= The current reposetory_**
  
- initialise reposetory
+Initializing a Git repository is the first step in using Git version control system for your project.
+
+By initializing a Git repository, you create an empty Git database in your project's directory. This database stores all the changes made to your project files, along with the version history of your project.
+ 
+To initialise git reposetory type:
  ```
  git init
  ```
+ initializing a Git repository helps you to keep track of the changes made to your project files, collaborate with others, have a backup of your project, and can push your projects to GitHub.
+ 
  Add User Name to Reposetory:
  ```
  git config --global user.name "Manangi Bo" 
@@ -92,7 +98,7 @@
  ```
  git add *.md
  ```
- >Note: .md is just an example you need to chose the formate of your actual file (.html, .js , .py, etc.)
+ >Note: .md is just an example format, you need to type the formate of the file you wish to add (.html, .js , .py, etc.)
  Remove File from commit stage
  ```
  git rm --cached <file name>
