@@ -12,7 +12,7 @@
  ```
  
 ## Settings:
- SYSTEM = All users
+ > SYSTEM = All users
  
 
  GLOBAL = All repositories of the current user
