@@ -10,14 +10,39 @@
  ```
  git --version
  ```
+ **Update Git on Windows**
  
-## Settings:
+ For versions 2.16.1 on, update Git with:
+ ```
+ git update-git-for-windows
+ ```
+ For versions from 2.14.2 to 2.16.1:
+ ```
+ git update
+ ```
+ **Update Git on Linux**
+ 
+  Start by updating the system packages with the following command:
+ ```
+ sudo apt-get update
+ ```
+ Update Git by using:
+ ```
+ sudo apt-get install git
+ ```
+
+ 
+## Settings for reposetory set-up:
  > **SYSTEM _= All users_**
  > 
  > **GLOBAL _= All repositories of the current user_**
  > 
  > **LOCAL _= The current reposetory_**
  
+ initialise reposetory
+ ```
+ git init
+ ```
  Add User Name to Reposetory:
  ```
  git config --global user.name "Manangi Bo" 
