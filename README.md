@@ -63,11 +63,12 @@
  ```
  git add . 
  ```
- add sertin format
+ add sertin format to commit stage
  ```
  git add *.md
  ```
- Remove File
+ <Note: .md is just an example you need to chose the formate of your actual file .html .js .py etc.
+ Remove File from commit stage
  ```
  git rm --cached <file name>
  ```
@@ -79,3 +80,6 @@
 
 When you're done, press the `Esc` key to exit insert mode. Finally, type `:wq` and hit enter to save your changes and close the Vim editor. This will complete the `git commit` process and add your comment to the commit.
 
+Commit changes to reposetory + comment
+```
+git commit -m "comment"
