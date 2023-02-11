@@ -12,11 +12,11 @@
  ```
  
 ## Settings:
- > SYSTEM = All users
+ > **SYSTEM _= All users_**
  > 
- > GLOBAL = All repositories of the current user
+ > **GLOBAL _= All repositories of the current user_**
  > 
- > LOCAL = The current reposetory
+ > **LOCAL _= The current reposetory_**
  
  git config --global user.name "Manangi Bo" #Add User Name
  git config --global user.email manangi@gmail.com #Add E-mail to Reposetory
