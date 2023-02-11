@@ -1,11 +1,12 @@
 # Git-Commands
  
-Install/Updates:
+## Install/Updates:
  sudo apt install git #install Git on your machine 
  git --version #check for current git version 
  
-Settings:
- SYSTEM #All users
+## Settings:
+ SYSTEM 
+ > All users
  GLOBAL #All repositories of the current user
  LOCAL #The current reposetory
  
